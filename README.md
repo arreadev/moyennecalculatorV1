@@ -1,6 +1,6 @@
 # Téléchargement
 
-https://moyennecalculateurr-v1.vercel.app/site/download/html
+https://moyennecalculateurr-v1.vercel.app/site/download.html
 
 # Mises à Jour
 
